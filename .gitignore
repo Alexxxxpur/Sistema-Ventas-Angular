@@ -1,0 +1,16 @@
+# Ignorar el directorio 'node_modules' de Angular
+/frontend/node_modules
+
+# Ignorar el directorio 'vendor' de Laravel
+/backend/vendor
+
+# Ignorar los archivos de configuración local de Laravel
+/backend/.env
+/backend/.env.* 
+
+# Ignorar archivos de compilación de Angular
+/frontend/dist
+/frontend/.angular
+
+# Ignorar archivos de log
+/backend/storage/logs/*
